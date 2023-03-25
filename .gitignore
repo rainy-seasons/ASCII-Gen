@@ -5,3 +5,6 @@
 *.png
 *.tga
 *.svg
+*.bmp
+*.tif
+out/*
